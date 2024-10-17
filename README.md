@@ -11,12 +11,10 @@
   Compare the aerodynamics of two cars with an accompanying diagram
 </h3>
   <br>
-<p align="center">
   <a><img src="https://github.com/user-attachments/assets/238b8581-2d7b-4ae0-8a19-8d1a30e4b4f1" width="500" height="300"></a>
-  <a><img src="https://github.com/user-attachments/assets/71f5688f-822f-4997-a7be-aa0da7646fb2" width="500" height="300"></a>
-</p>
+  <a><img src="https://github.com/user-attachments/assets/71f5688f-822f-4997-a7be-aa0da7646fb2" width="600" height="200"></a>
 
-![Dashboard2]()
+
 
 <h1>
   Overview
