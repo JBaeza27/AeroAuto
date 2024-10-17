@@ -15,10 +15,8 @@
   <a><img src="https://github.com/user-attachments/assets/71f5688f-822f-4997-a7be-aa0da7646fb2" width="600" height="200"></a>
 </h3>
 
-<h1>
-  Overview
-</h1>
-<p> The project uses multiple libraries including Streamlit, pandaas, beautifulsoup, matplotlib, lottie to showcase the aerodynamics of two cars.</p>
+## Overview
+<p> The project uses multiple libraries including Streamlit, pandas, beautifulsoup, matplotlib, lottie to showcase the aerodynamics of two cars.</p>
 
 
 <h1>
@@ -44,7 +42,7 @@
  $ pip install Streamlit-lottie
  $ pip install matplotlib
  $ pip install pandas
- $ pip install request
+ $ pip install requests
  $ pip install beautifulsoup4
 ```
 
@@ -59,3 +57,4 @@
 ```
 <h1>Credits</h1>
 <br>
+<p>This project uses data from the Vehicle Coefficient of Drag List provided by <a href="https://ecomodder.com/wiki/Vehicle_Coefficient_of_Drag_List">Eco Modder</a>.</p> 
