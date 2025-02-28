@@ -29,8 +29,8 @@
 
 ```bash
  # Clone Repository
- $ git clone https://github.com/JBaeza27/FishLogApp.git
- $ cd AiroAuto
+ $ git clone https://github.com/JBaeza27/AeroAuto.git
+ $ cd AeroAuto
 ```
 
 **Step 2:**
