@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  AiroAuto
+  AeroAuto
   <br>
   <br>
   <a><img src="https://github.com/user-attachments/assets/7f2ce19b-bfb0-4af6-a210-5ab9eb92e72d" width="300" height="300"></a>
